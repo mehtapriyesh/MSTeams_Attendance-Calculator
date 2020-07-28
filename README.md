@@ -12,6 +12,7 @@ Steps to keep in mind:
 (ex: Two organisers in one meeting would lead to program not working properly as we are calculating the duration using the joining time of organiser whose name appears first in the file.)
 3) Add the duration of meeting in hours.
 4) Ensure that your teams file uses same time format as in the code
-5) In case this program helps you, it would be great if you could give me credits.
+
+In case this program helps you, it would be great if you give me credits.
 
 Thanks.
